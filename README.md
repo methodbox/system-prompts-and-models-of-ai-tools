@@ -2,7 +2,7 @@
 
 This is a direct fork of the original repo for my own preservation purposes only.
 
-AI Overview
+*AI Overview*
 
 The open-source repository System Prompts and Models of AI Tools collects and documents hidden system prompts, JSON tool-use schemas, and model configurations for over 28 major AI coding tools and assistants. GitHub +1
 
